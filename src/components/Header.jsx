@@ -30,7 +30,7 @@ const Header = () => {
                 {/* Logo */}
                 <div className="flex items-center gap-2 cursor-pointer font-bold text-xl tracking-tighter text-accent">
                     <span className="text-2xl">&lt;</span>
-                    <span className="text-white">Mahesh</span>
+                    <span className="text-white">Mahesh Chowdary</span>
                     <span className="text-2xl">/&gt;</span>
                 </div>
 
