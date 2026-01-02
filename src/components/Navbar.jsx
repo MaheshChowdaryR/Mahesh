@@ -48,7 +48,7 @@ export default function Navbar() {
             >
               <img src={logoImg} alt="MC Logo" className="w-full h-full object-cover" />
             </motion.div>
-            <span className="font-bold text-xl tracking-tight text-slate-800 dark:text-white hidden sm:block">
+            <span className="font-bold text-lg sm:text-xl tracking-tight text-slate-800 dark:text-white block">
               Mahesh Chowdary
             </span>
           </Link>
