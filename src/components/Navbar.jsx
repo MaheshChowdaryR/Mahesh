@@ -6,7 +6,7 @@ import logoImg from '../assets/logo_v2.png';
 
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
-  const [theme, setTheme] = useState(localStorage.getItem('theme') || 'dark');
+  const [theme, setTheme] = useState(localStorage.getItem('theme') || 'light');
   const [scrolled, setScrolled] = useState(false);
 
   useEffect(() => {

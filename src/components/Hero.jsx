@@ -36,15 +36,17 @@ export default function Hero() {
             </span>
           </h1>
 
-          <div className="text-xl md:text-2xl text-slate-700 dark:text-slate-300 mb-8 h-20 font-medium">
+          <div className="text-xl md:text-2xl text-slate-700 dark:text-slate-300 mb-2 md:mb-8 h-12 md:h-20 font-medium flex items-center justify-center md:justify-start">
             <TypeAnimation
               sequence={[
-                'Full Stack AI Engineer',
-                2000,
-                'Automation Architect',
-                2000,
-                'Cloud Solutions Expert',
-                2000,
+                'AI Software Engineer',
+                1500,
+                'Agentic Automation Architect',
+                1500,
+                'Full Stack Engineer',
+                1500,
+                'Cloud Engineer',
+                1500,
               ]}
               wrapper="span"
               speed={50}

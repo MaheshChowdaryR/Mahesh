@@ -25,7 +25,7 @@ export default function Footer() {
                         <Mail size={20} />
                     </a>
                     <a
-                        href="#"
+                        href="https://github.com/MaheshChowdaryR"
                         className="text-slate-500 hover:text-primary transition-colors"
                     >
                         <Github size={20} />
