@@ -88,7 +88,7 @@ const fullStackProjects = [
         skills: ["React", "Express", "Tailwind CSS", "Supabase", "AI Agents", "VAPI", "OAuth"],
         description: "AI-powered dating coach with voice and chat capabilities. (In Development)",
         details: "A private, secure platform offering personalized relationship advice. Users can chat or talk (via Voice AI) to a fine-tuned agent. Features secure OAuth login, real-time voice interaction via VAPI, and persistent chat history stored in Supabase.",
-        demo: "#", // In Development
+        demo: "https://datingapp-one.vercel.app", // In Development
         github: "#"
     },
     {

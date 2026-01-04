@@ -5,7 +5,7 @@ import avatar from '../assets/avatar.jpg';
 
 export default function Hero() {
   return (
-    <section id="hero" className="min-h-screen flex items-center justify-center relative overflow-hidden pt-20">
+    <section id="hero" className="min-h-screen flex items-center justify-center relative overflow-hidden pt-32 pb-20 md:pb-32">
 
       {/* Background Elements */}
       <div className="absolute inset-0 z-0 pointer-events-none">
