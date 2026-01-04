@@ -27,11 +27,11 @@ export default function About() {
     ];
 
     return (
-        <section id="about" className="section-padding bg-white dark:bg-dark-card/50 relative overflow-hidden md:-mt-20 z-20 md:rounded-t-[3rem]">
+        <section id="about" className="section-padding bg-white dark:bg-dark-card/50 relative overflow-hidden md:-mt-10 z-20 md:rounded-t-[3rem]">
             {/* Decorative Blur */}
             <div className="absolute top-0 right-0 w-1/3 h-1/3 bg-primary/5 rounded-full blur-[100px] pointer-events-none hidden md:block" />
 
-            <div className="max-w-7xl mx-auto grid lg:grid-cols-2 gap-16 items-center">
+            <div className="max-w-7xl mx-auto grid lg:grid-cols-2 gap-12 items-center">
                 {/* Left: Content */}
                 <motion.div
                     initial={{ opacity: 0, x: -50 }}
